@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "PumpkinPi") (type "KiCad") (uri "${KIPRJMOD}/PumpkinPi.kicad_sym") (options "") (descr ""))
+	(lib (name "FunKey") (type "Legacy") (uri "/home/b/Projects/FunKey-S-Hardware/FunKey.lib") (options "") (descr ""))
+)

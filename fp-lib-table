@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "PumpkinPi") (type "KiCad") (uri "PumpkinPi.pretty") (options "") (descr ""))
+)

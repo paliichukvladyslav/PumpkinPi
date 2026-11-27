@@ -1,0 +1,36 @@
+# Pumpkin Pi
+
+# Local history and backups
+.history/
+*-backups/
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_pro-bak
+
+# KiCad local settings and lock files
+*.kicad_prl
+*.lck
+*.lck~
+*~
+fp-info-cache
+
+# KiCad temporary and rescue files
+*.tmp
+*-rescue.lib
+*-rescue.kicad_sym
+*-cache.lib
+
+# DRC / ERC reports
+*.rpt
+
+# Generated fabrication files
+/pumpkinpi_pcb/
+/pumpkinpi_pcb_gerber/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
